@@ -1,2 +1,2 @@
 # objcrush
-Crush the contents of an Object, without respecting depth &amp; naming conventions
+Crush/flat object contents, without respecting depth & naming conventions

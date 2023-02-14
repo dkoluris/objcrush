@@ -1,0 +1,25 @@
+{
+  "name": "objcrush",
+  "version": "1.0.0",
+  "description": "Crush/flat object contents, without respecting depth & naming conventions",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://dkoluris@github.com/dkoluris/objcrush.git"
+  },
+  "keywords": [
+    "object",
+    "crush",
+    "flat",
+    "flatten"
+  ],
+  "author": "Dennis Koluris",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dkoluris/objcrush/issues"
+  },
+  "homepage": "https://github.com/dkoluris/objcrush#readme"
+}
