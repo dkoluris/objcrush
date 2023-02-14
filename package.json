@@ -1,6 +1,6 @@
 {
   "name": "objcrush",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Crush/flat object contents, without respecting depth & naming conventions",
   "main": "index.js",
   "scripts": {
